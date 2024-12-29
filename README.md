@@ -134,12 +134,7 @@ doctor directly from WhatsApp. This streamlined workflow ensures patients can
 quickly access the healthcare provider who originally diagnosed them, saving
 valuable time in urgent situations.
 ---
-#### Technical Aspects of WhatsApp Integration
-*Details about technical implementation of WhatsApp integration*
 
-This integration makes Mia highly accessible and familiar, leveraging the widespread
-usage of WhatsApp as a communication tool.
----
 ## Future Scope
 - **Expanded Symptom Library**: Enhancing MIA’s ability to assess a wider range of
 symptoms.
