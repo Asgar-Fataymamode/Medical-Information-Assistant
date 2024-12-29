@@ -16,7 +16,6 @@ countries.
 - [Technical Overview](#technical-overview)
 - [Agents and Communication](#agents-and-communication)
 - [Future Scope](#future-scope)
-- [Contact](#contact)
 ---
 ## Problem Statement
 The healthcare sector faces several critical challenges:
