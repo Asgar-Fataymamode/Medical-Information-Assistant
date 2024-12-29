@@ -1,11 +1,13 @@
 # MIA - WhatsApp Healthcare Assistant
-**MIA** (Medical Information Assistant) is a WhatsApp-based healthcare assistant
+
+MIA (Medical Information Assistant) is a WhatsApp-based healthcare assistant
 designed to address critical challenges in the healthcare sector, including shortages
 of healthcare workers, missed medication doses, limited support for post-discharge
 care, and inefficient use of healthcare resources. MIA provides both patients and
 healthcare providers with streamlined, efficient, and convenient solutions, all
 accessible through WhatsApp – a familiar platform widely used in many developing
 countries.
+
 ---
 ## Table of Contents
 - [Problem Statement](#problem-statement)
